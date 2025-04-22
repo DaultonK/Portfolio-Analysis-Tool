@@ -1,0 +1,165 @@
+2025-04-09 19:25:35,804 - Successfully fetched data for MSFT
+2025-04-09 19:25:36,444 - Successfully fetched data for GOOG
+2025-04-09 19:25:37,172 - Successfully fetched data for aapl
+2025-04-09 19:25:37,933 - Successfully fetched data for SHEL.L
+2025-04-09 19:25:38,608 - Successfully fetched data for AIR.PA
+2025-04-09 19:25:39,106 - Successfully fetched data for 9988.HK
+2025-04-09 19:26:20,790 - Successfully fetched data for MSFT
+2025-04-09 19:26:21,042 - Successfully fetched data for GOOG
+2025-04-09 19:26:21,422 - Successfully fetched data for aapl
+2025-04-09 19:26:21,721 - Successfully fetched data for SHEL.L
+2025-04-09 19:26:22,080 - Successfully fetched data for AIR.PA
+2025-04-09 19:26:22,255 - Successfully fetched data for 9988.HK
+2025-04-09 19:39:31,509 - Successfully fetched data for AAPL
+2025-04-09 19:39:32,145 - Successfully fetched data for MSFT
+2025-04-09 19:39:33,903 - Successfully fetched data for TSLA
+2025-04-09 19:43:33,828 - Successfully fetched data for AAPL
+2025-04-09 19:43:34,470 - Successfully fetched data for MSFT
+2025-04-09 19:43:34,936 - Successfully fetched data for TSLA
+2025-04-09 19:54:05,184 - Successfully fetched data for AAPL
+2025-04-09 19:54:05,828 - Successfully fetched data for MSFT
+2025-04-09 19:54:06,334 - Successfully fetched data for TSLA
+2025-04-09 19:54:45,118 - Successfully fetched data for AAPL
+2025-04-09 19:54:45,718 - Successfully fetched data for MSFT
+2025-04-09 19:54:46,183 - Successfully fetched data for TSLA
+2025-04-09 19:57:06,272 - Successfully fetched data for aapl
+2025-04-09 20:00:57,994 - Successfully fetched data for AAPL
+2025-04-09 20:00:58,677 - Successfully fetched data for MSFT
+2025-04-09 20:00:59,211 - Successfully fetched data for TSLA
+2025-04-09 20:12:59,063 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:12:59,068 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:12:59,075 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:12:59,080 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:12:59,094 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:12:59,135 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:14:35,707 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:14:35,711 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:14:35,719 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:14:35,766 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:14:35,801 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:14:35,844 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:30:11,985 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:30:11,991 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:30:11,995 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:30:12,030 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:30:12,108 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:30:12,123 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:43:57,647 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:43:57,649 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:43:57,659 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:43:57,659 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:43:57,673 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:43:57,734 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:44:25,167 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:44:25,186 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:44:25,199 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:44:25,293 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:44:25,326 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:44:45,135 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:44:45,136 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:44:45,142 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:44:45,161 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:44:45,194 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:44:45,244 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:44:45,270 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:45:07,460 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:45:07,466 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:45:07,486 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:45:07,521 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:45:07,549 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:45:07,599 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:47:24,059 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:47:24,061 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:47:24,066 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:47:24,110 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:47:24,118 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:47:24,143 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:47:55,687 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:47:55,707 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:47:55,711 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:47:55,711 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:47:55,711 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 20:47:55,814 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:31,317 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:31,321 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:31,337 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:31,391 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:31,430 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:31,535 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:38,141 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:38,187 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:38,190 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:38,190 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:38,291 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:52,467 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:52,487 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:52,495 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:52,521 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:52,576 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:00:52,610 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:04:03,012 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:04:03,022 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:04:03,083 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:04:03,097 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:04:03,180 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:04:03,206 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:05:36,452 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:05:36,452 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:05:36,479 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:05:36,497 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:05:36,512 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:05:36,513 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:05:36,645 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:07:39,403 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:07:39,446 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:07:39,458 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:07:39,468 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:07:39,468 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:07:39,580 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 21:07:39,580 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:20:40,948 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:20:41,098 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:20:41,104 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:20:41,121 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:20:41,133 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:20:41,134 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:27:31,049 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:27:31,093 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:27:31,119 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:27:31,210 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:27:31,226 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:39:20,990 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:39:21,002 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:39:21,070 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:39:21,088 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:39:21,103 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:39:21,105 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:46:52,607 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:46:52,616 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:46:52,649 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:46:52,665 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:46:52,678 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:46:52,705 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:54:18,935 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:54:18,941 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:54:18,942 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:54:18,945 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:54:18,958 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:54:27,670 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:54:27,677 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:54:27,696 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:54:27,705 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-09 23:54:27,730 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:44,426 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:44,439 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:44,440 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:44,476 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:44,477 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:44,563 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:50,084 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:50,131 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:50,131 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:50,150 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:50,187 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:50,192 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
+2025-04-10 00:26:50,286 - Connection pool is full, discarding connection: query2.finance.yahoo.com. Connection pool size: 10
